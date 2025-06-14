@@ -8,23 +8,11 @@ Welcome to my GitHub profile! I'm a passionate web developer who loves building 
 - **Backend:** Node.js, Express, Prisma, PHP (Laravel)
 - **Tools:** Git, Docker, Postman
 
-## 📚 Currently Learning
-
-- Enhancing my backend skills with **PHP (Laravel)**
-- Deepening my containerization knowledge with **Docker**
-- Experimenting with advanced **Neovim** configurations
-
 ## 💻 Daily Setup
 
 - Running **Arch Linux** as my daily driver
 - Deeply immersed in **Neovim** – check out my [LazyVim setup](https://github.com/agisnarevaldo/lazy-vim)
 
-## 🚀 Projects
-
-- [**Panwaslu Web App**](https://github.com/agisnarevaldo/panwaslu) - A website for election monitoring and PTPS registration.
-- [**Dana Bergulir App**](https://github.com/agisnarevaldo/app-dana-bergulir) - A project developed during my KP (Internship) at UPK DAPM Puspahiang.
-- [**Real-time Notification System**](https://github.com/username/notification-system) - A project implementing Server-Sent Events (SSE) for live updates, created for a distributed systems course.
-- [**Layanan Tanggap Masyarakat**](https://github.com/agisnarevaldo/layanan-tanggap-masyarakat) - A public service response system built for a web services course.
 ## 📊 GitHub Stats
 
 ![Agisnarevaldo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=agisnarevaldo&show_icons=true&theme=transparent)
