@@ -4,7 +4,7 @@
 
 ![Open to Work/Collab](https://img.shields.io/badge/Open%20to-Work%2FCollab-brightgreen?style=flat-square)
 
-Web developer focused on building clean, scalable web applications. Comfortable working in AI-agent-driven, CLI-based development workflows.
+Web developer focused on building clean, scalable web applications. Comfortable working in AI-agent-driven development workflows.
 
 **Tech Stack**
 
