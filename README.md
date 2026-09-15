@@ -1,4 +1,4 @@
-# Hi, I'm Agisna Revaldo 👋
+# Hi, I'm Agisna Revaldo 
 
 [agis.narev.xyz](https://agis.narev.xyz)
 
